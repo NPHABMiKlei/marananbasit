@@ -377,13 +377,13 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <section id="gallery">
 <h2>📸 Gallery</h2>
 <div class="gallery">
-<img src="IMG_0180.jpeg">
+<img src="IMG_9561.jpeg">
 <img src="IMG_9438.jpeg">
-<img src="IMG_8109.jpeg">
+<img src="IMG_9450.jpeg">
 <img src="IMG_9336.png">
 <img src="IMG_8220.jpeg">
 <img src="IMG_5061.jpeg">
-<img src="IMG_5062.jpeg">
+  
 </div>
 </section>
 <section>
