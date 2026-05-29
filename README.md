@@ -417,10 +417,8 @@ Made with ♡ by Judy Ann Maranan 🌷🩷🩵
 <script>
 const hearts=document.querySelector('.hearts');
 const icons=[
-'♡',
 '🩷',
 '💙',
-'🎀',
 '🌸',
 '🤍'
 ];
