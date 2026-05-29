@@ -270,7 +270,7 @@ padding:25px;
 </nav>
 <div class="hero">
 <div class="profile-frame">
-<img src="IMG_7940.jpg">
+<img src="IMG_7940.jpeg">
 </div>
 <h1>Judy Ann B. Maranan</h1>
 <p>
