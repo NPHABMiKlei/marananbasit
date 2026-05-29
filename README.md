@@ -347,12 +347,12 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
 </div>
 <div class="card">
-<img src="1000002044.jpeg">
+<img src="1000003330.jpeg">
 <h3>Baking 🧁</h3>
 <p>Baking allows me to express creativity and share happiness through desserts.</p>
 </div>
 <div class="card">
-<img src="IMG_9233.jpeg">
+<img src="1000008084.png">
 <h3>Business 💼</h3>
 <p>Learning entrepreneurship inspires me to turn ideas into opportunities.</p>
 </div>
@@ -368,6 +368,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 </div>
 <div class="card">
 <img src="att.J-gQVq_0TjjoQaJOyvXdOrVq7hQpNEWbof-wQNSkZkQ.jpeg">
+ <img src="IMG_9227.jpeg">
 <h3>Friends 🤍</h3>
 <p>My friends make life more meaningful through laughter and support.</p>
 </div>
@@ -382,6 +383,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <img src="IMG_7768.jpeg">
 <img src="IMG_8220.jpeg">
 <img src="IMG_5061.jpeg">
+<img src="IMG_5062.jpeg">
 </div>
 </section>
 <section>
