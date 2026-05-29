@@ -362,7 +362,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <p>I enjoy watching exciting basketball games and supporting my favorite teams.</p>
 </div>
 <div class="card">
-<img src="realme C25s.jpeg">
+<img src="IMG_4185.jpeg">
 <h3>Playing with My Dogs 🐾</h3>
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
