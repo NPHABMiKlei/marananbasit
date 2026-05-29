@@ -314,25 +314,25 @@ I studied BS Accountancy at AMA University Quezon City. I am currently studying 
 </section>
 <section>
 <h2>🏆 Achievements</h2>
-<img src="IMG_9215.jpg" class="single-image">
+<img src="IMG_9215.jpeg" class="single-image">
 <p>Passed the NCIII Bookkeeping in 2018</p>
-<img src="IMG_9216.jpg" class="single-image">
+<img src="IMG_9216.jpeg" class="single-image">
 <p>Passed the IC3 Assessment</p>
 </section>
 <section id="family">
 <h2>👨‍👩‍👧‍👦 Family Background</h2>
-<img src="IMG_2387.jpg" class="single-image">
+<img src="IMG_2387.jpeg" class="single-image">
 <p>
 My father is my role model and my source of strength. His hard work, sacrifices, and unwavering support inspire me to face life's challenges with courage and determination.
 </p>
 <p>
 My mother is the heart of our family. Her endless love, care, and encouragement make every day brighter.
 </p>
-<img src="IMG_8592.jpg" class="single-image">
+<img src="IMG_8592.jpeg" class="single-image">
 <p>
 My siblings are my lifelong friends and partners in every adventure.
 </p>
-<img src="Photoroom_20250525_165207.jpg" class="single-image">
+<img src="Photoroom_20250525_165207.jpeg" class="single-image">
 <p>
 My fur babies hold a special place in my heart. They are not just pets — they are family. ❤️🐶
 </p>
@@ -341,27 +341,27 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <h2>💖 Interests & Hobbies</h2>
 <div class="grid">
 <div class="card">
-<img src="IMG_9335.jpg">
+<img src="IMG_9335.jpeg">
 <h3>Snoopy Things 🐶</h3>
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
 </div>
 <div class="card">
-<img src="1000002044.jpg">
+<img src="1000002044.jpeg">
 <h3>Baking 🧁</h3>
 <p>Baking allows me to express creativity and share happiness through desserts.</p>
 </div>
 <div class="card">
-<img src="IMG_9233.jpg">
+<img src="IMG_9233.jpeg">
 <h3>Business 💼</h3>
 <p>Learning entrepreneurship inspires me to turn ideas into opportunities.</p>
 </div>
 <div class="card">
-<img src="Untitled design.jpg">
+<img src="Untitled design.jpeg">
 <h3>PBA Basketball 🏀</h3>
 <p>I enjoy watching exciting basketball games and supporting my favorite teams.</p>
 </div>
 <div class="card">
-<img src="realme C25s.jpg">
+<img src="realme C25s.jpeg">
 <h3>Playing with My Dogs 🐾</h3>
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
@@ -375,12 +375,12 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <section id="gallery">
 <h2>📸 Gallery</h2>
 <div class="gallery">
-<img src="IMG_0180.jpg">
-<img src="IMG_9438.jpg">
-<img src="IMG_8109.jpg">
-<img src="IMG_7768.jpg">
-<img src="IMG_8220.jpg">
-<img src="IMG_5061.jpg">
+<img src="IMG_0180.jpeg">
+<img src="IMG_9438.jpeg">
+<img src="IMG_8109.jpeg">
+<img src="IMG_7768.jpeg">
+<img src="IMG_8220.jpeg">
+<img src="IMG_5061.jpeg">
 </div>
 </section>
 <section>
