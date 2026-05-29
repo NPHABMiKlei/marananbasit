@@ -322,9 +322,9 @@ I studied BS Accountancy at AMA University Quezon City. I am currently studying 
 <p>
 My father is my role model and my source of strength. His hard work, sacrifices, and unwavering support inspire me to face life's challenges with courage and determination.
 My mother is the heart of our family. Her endless love, care, and encouragement make every day brighter.
-</p>
+
 <img src="IMG_8592.jpeg" class="single-image">
-</p>
+<p>
 My siblings are my lifelong friends and partners in every adventure.
 </p>
 <img src="Photoroom_20250525_165207.jpeg" class="single-image">
@@ -357,7 +357,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 </div>
 <div class="card">
 <img src="IMG_4185.jpeg">
-<img src=”3CF2B4F4-46B7-4638-A24C-408B22B993E0.jpeg”>
+<img src="3CF2B4F4-46B7-4638-A24C-408B22B993E0.jpeg">
 <h3>Playing with My Dogs 🐾</h3>
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
@@ -377,7 +377,8 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <img src="IMG_9336.png">
 <img src="IMG_8220.jpeg">
 <img src="IMG_5061.jpeg">
-<img src=”IMG_1885.jpeg”>
+<img src="IMG_1885.jpeg">
+
 </div>
 </section>
 <section>
