@@ -357,7 +357,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <p>Learning entrepreneurship inspires me to turn ideas into opportunities.</p>
 </div>
 <div class="card">
-<img src="Untitled design.jpeg">
+<img src="Untitled design.png">
 <h3>PBA Basketball 🏀</h3>
 <p>I enjoy watching exciting basketball games and supporting my favorite teams.</p>
 </div>
@@ -380,7 +380,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <img src="IMG_0180.jpeg">
 <img src="IMG_9438.jpeg">
 <img src="IMG_8109.jpeg">
-<img src="IMG_7768.jpeg">
+<img src="IMG_9336.png">
 <img src="IMG_8220.jpeg">
 <img src="IMG_5061.jpeg">
 <img src="IMG_5062.jpeg">
