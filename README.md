@@ -329,7 +329,7 @@ My father is my role model and my source of strength. His hard work, sacrifices,
 My mother is the heart of our family. Her endless love, care, and encouragement make every day brighter.
 </p>
 <img src="IMG_8592.jpeg" class="single-image">
-<p>
+</p>
 My siblings are my lifelong friends and partners in every adventure.
 </p>
 <img src="Photoroom_20250525_165207.jpeg" class="single-image">
