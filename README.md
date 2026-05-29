@@ -274,7 +274,7 @@ padding:25px;
 </div>
 <h1>Judy Ann B. Maranan</h1>
 <p>
-Dreamer • Fur Mom • Future Customs Professional • Coffee Lover • Basketball Fan
+Dreamer • Fur Mom • Coffee Lover
 </p>
 </div>
 <section id="about">
@@ -437,4 +437,3 @@ hearts.appendChild(span);
 }
 </script>
 </body>
-</htm
