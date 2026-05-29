@@ -331,7 +331,9 @@ My siblings are my lifelong friends and partners in every adventure.
 <p>
 My fur babies hold a special place in my heart. They are not just pets — they are family. ❤️🐶
 </p>
+</div>
 </section>
+<section>
 <section id="interests">
 <h2>💖 Interests & Hobbies</h2>
 <div class="grid">
