@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Judy Ann Maranan | Coquette Portfolio</title>
+<title>Juday | Coquette Portfolio</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 <style>
 *{
@@ -257,7 +257,7 @@ padding:25px;
 <body>
 <div class="hearts"></div>
 <nav>
-<div class="logo">Judy Ann ♡</div>
+<div class="logo">Juday ♡</div>
 <ul>
 <li><a href="#about">About</a></li>
 <li><a href="#education">Education</a></li>
@@ -272,7 +272,7 @@ padding:25px;
 <div class="profile-frame">
 <img src="mp4.jpeg">
 </div>
-<h1>Judy Ann B. Maranan</h1>
+<h1>Juday</h1>
 <p>
 Dreamer • Fur Mom • Coffee Lover
 </p>
@@ -285,10 +285,7 @@ Dreamer • Fur Mom • Coffee Lover
 <p><b>Favorite Color:</b> Pink</p>
 <p><b>Address:</b> Cainta, Rizal</p>
 <p>
-Hi! I am Judy Ann Maranan. I am a college student who loves learning new things, spending time with family, friends, and especially with my dogs while exploring creative ideas.
-</p>
-<p>
-My dream is to become successful and inspire others through hard work and kindness.
+Hi! I am Judy Ann Maranan. I am a college student who loves learning new things, spending time with family, friends, and especially with my dogs while exploring creative ideas. My dream is to become successful and inspire others through hard work and kindness.
 </p>
 </section>
 <section id="education">
@@ -324,8 +321,6 @@ I studied BS Accountancy at AMA University Quezon City. I am currently studying 
 <img src="IMG_2387.jpeg" class="single-image">
 <p>
 My father is my role model and my source of strength. His hard work, sacrifices, and unwavering support inspire me to face life's challenges with courage and determination.
-</p>
-<p>
 My mother is the heart of our family. Her endless love, care, and encouragement make every day brighter.
 </p>
 <img src="IMG_8592.jpeg" class="single-image">
@@ -362,6 +357,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 </div>
 <div class="card">
 <img src="IMG_4185.jpeg">
+<img src=”3CF2B4F4-46B7-4638-A24C-408B22B993E0.jpeg”>
 <h3>Playing with My Dogs 🐾</h3>
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
@@ -381,7 +377,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <img src="IMG_9336.png">
 <img src="IMG_8220.jpeg">
 <img src="IMG_5061.jpeg">
-  
+<img src=”IMG_1885.jpeg”>
 </div>
 </section>
 <section>
@@ -420,8 +416,6 @@ const hearts=document.querySelector('.hearts');
 const icons=[
 '🩷',
 '💙',
-'🌸',
-'🤍'
 ];
 for(let i=0;i<50;i++){
 let span=document.createElement('span');
