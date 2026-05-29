@@ -314,9 +314,9 @@ I studied BS Accountancy at AMA University Quezon City. I am currently studying 
 </section>
 <section>
 <h2>🏆 Achievements</h2>
-<img src="IMG_9215.jpeg" class="single-image">
+<img src="IMG_9217.jpeg " class="single-image">
 <p>Passed the NCIII Bookkeeping in 2018</p>
-<img src="IMG_9216.jpeg" class="single-image">
+<img src="IMG_9218.jpeg" class="single-image">
 <p>Passed the IC3 Assessment</p>
 </section>
 <section id="family">
@@ -341,7 +341,8 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <h2>💖 Interests & Hobbies</h2>
 <div class="grid">
 <div class="card">
-<img src="IMG_9335.jpeg">
+<img src="IMG_9335.jpeg"> 
+  <img src="IMG_6383.jpeg">
 <h3>Snoopy Things 🐶</h3>
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
 </div>
@@ -399,7 +400,7 @@ Mental health awareness is an advocacy that is close to my heart. I believe ever
 "When the time is right, I, the Lord, will make it happen." — Isaiah 60:22
 </blockquote>
 </section>
-<section id="contact">
+              <section id="contact">
 <h2>📩 Contact Me</h2>
 <p>Email: jmaranan0409@yahoo.com</p>
 <div class="socials">
