@@ -341,7 +341,6 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <h2>💖 Interests & Hobbies</h2>
 <div class="grid">
 <div class="card">
-<img src="IMG_9335.jpeg"> 
 <img src="IMG_6383.jpeg">
 <h3>Snoopy Things 🐶</h3>
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
