@@ -270,7 +270,7 @@ padding:25px;
 </nav>
 <div class="hero">
 <div class="profile-frame">
-<img src="IMG_7940.jpeg">
+<img src="mp4.jpeg">
 </div>
 <h1>Judy Ann B. Maranan</h1>
 <p>
@@ -342,7 +342,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <div class="grid">
 <div class="card">
 <img src="IMG_9335.jpeg"> 
-  <img src="IMG_6383.jpeg">
+<img src="IMG_6383.jpeg">
 <h3>Snoopy Things 🐶</h3>
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
 </div>
@@ -377,7 +377,6 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <section id="gallery">
 <h2>📸 Gallery</h2>
 <div class="gallery">
-<img src="IMG_9561.jpeg">
 <img src="IMG_9438.jpeg">
 <img src="IMG_9450.jpeg">
 <img src="IMG_9336.png">
