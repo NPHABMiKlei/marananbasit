@@ -331,49 +331,63 @@ My siblings are my lifelong friends and partners in every adventure.
 <p>
 My fur babies hold a special place in my heart. They are not just pets — they are family. ❤️🐶
 </p>
-</div>
+
 </section>
-<section>
+
 <section id="interests">
+ 
 <h2>💖 Interests & Hobbies</h2>
+
 <div class="grid">
+ 
 <div class="card">
 <img src="IMG_6383.jpeg">
 <h3>Snoopy Things 🐶</h3>
 <p>I enjoy collecting Snoopy-themed items because they bring comfort and happiness.</p>
 </div>
+
 <div class="card">
 <img src="1000003330.jpeg">
 <h3>Baking 🧁</h3>
 <p>Baking allows me to express creativity and share happiness through desserts.</p>
 </div>
+
 <div class="card">
 <img src="1000008084.png">
 <h3>Business 💼</h3>
 <p>Learning entrepreneurship inspires me to turn ideas into opportunities.</p>
 </div>
+
 <div class="card">
 <img src="Untitled design.png">
 <h3>PBA Basketball 🏀</h3>
 <p>I enjoy watching exciting basketball games and supporting my favorite teams.</p>
 </div>
+
 <div class="card">
 <img src="IMG_4185.jpeg">
 <img src="3CF2B4F4-46B7-4638-A24C-408B22B993E0.jpeg">
 <h3>Playing with My Dogs 🐾</h3>
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
+
 <div class="card">
 <img src="att.J-gQVq_0TjjoQaJOyvXdOrVq7hQpNEWbof-wQNSkZkQ.jpeg">
  <img src="IMG_9227.jpeg">
 <h3>Friends 🤍</h3>
 <p>My friends make life more meaningful through laughter and support.</p>
 </div>
+
 </div>
+
 </section>
+
 <section id="gallery">
+ 
 <h2>📸 Gallery</h2>
+
 <div class="gallery">
+ 
 <img src="IMG_9438.jpeg">
 <img src="IMG_9450.jpeg">
 <img src="IMG_9336.png">
@@ -382,22 +396,30 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <img src="IMG_1885.jpeg">
 
 </div>
+
 </section>
+
 <section>
+ 
 <h2>🎥 My Video</h2>
 <video controls>
 <source src="copy_C29606BD-9360-4C6D-
 BDE7-033D2994FC18.mov" type="video/mp4">
 </video>
+
 </section>
+
 <section id="advocacy">
+ 
 <h2>💚 Mental Health Awareness</h2>
 <p>
 Mental health awareness is an advocacy that is close to my heart. I believe everyone deserves to be heard, understood, and supported.
 </p>
+
 <blockquote>
 "When the time is right, I, the Lord, will make it happen." — Isaiah 60:22
 </blockquote>
+
 </section>
               <section id="contact">
 <h2>📩 Contact Me</h2>
