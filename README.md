@@ -322,7 +322,7 @@ I studied BS Accountancy at AMA University Quezon City. I am currently studying 
 <p>
 My father is my role model and my source of strength. His hard work, sacrifices, and unwavering support inspire me to face life's challenges with courage and determination.
 My mother is the heart of our family. Her endless love, care, and encouragement make every day brighter.
-
+</p>
 <img src="IMG_8592.jpeg" class="single-image">
 <p>
 My siblings are my lifelong friends and partners in every adventure.
