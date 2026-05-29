@@ -366,7 +366,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <p>My dogs bring joy, comfort, and unconditional love into my life.</p>
 </div>
 <div class="card">
-<img src="IMG_9227.jpg">
+<img src="att.J-gQVq_0TjjoQaJOyvXdOrVq7hQpNEWbof-wQNSkZkQ.jpeg">
 <h3>Friends 🤍</h3>
 <p>My friends make life more meaningful through laughter and support.</p>
 </div>
