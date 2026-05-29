@@ -386,7 +386,8 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 <section>
 <h2>🎥 My Video</h2>
 <video controls>
-<source src="copy_C29606BD-9360-4C6D-BDE7-033D2994FC18.mp4" type="video/mp4">
+<source src="copy_C29606BD-9360-4C6D-
+BDE7-033D2994FC18.mov" type="video/mp4">
 </video>
 </section>
 <section id="advocacy">
