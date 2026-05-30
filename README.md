@@ -103,10 +103,10 @@ animation:glow 3s infinite alternate;
 }
 @keyframes glow{
 from{
-box-shadow:0 0 20px pink;
+round-shadow:0 0 20px pink;
 }
 to{
-box-shadow:0 0 40px skyblue;
+round-shadow:0 0 40px skyblue;
 }
 }
 .profile-frame img{
@@ -270,7 +270,7 @@ padding:25px;
 </nav>
 <div class="hero">
 <div class="profile-frame">
-<img src="mp4.jpeg">
+<img src="IMG_9606.jpeg">
 </div>
 <h1>Juday</h1>
 <p>
