@@ -414,9 +414,6 @@ BDE7-033D2994FC18.mov" type="video/mp4">
  
 <h2>💚 Mental Health Awareness</h2>
 <p>
-🌿 Mental Health Awareness Advocacy (Speech/Website Description)
-
-Mental Health Awareness Advocacy
 
 Mental health is just as important as physical health. My advocacy focuses on raising awareness about mental health, promoting self-care, and encouraging individuals to seek help when they need it. Many people struggle silently with stress, anxiety, depression, and other mental health challenges because of fear, stigma, or lack of understanding.
 
