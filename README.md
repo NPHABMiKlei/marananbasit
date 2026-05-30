@@ -360,6 +360,7 @@ My fur babies hold a special place in my heart. They are not just pets — they 
 
 <div class="card">
 <img src="Untitled design.png">
+<img src="IMG_4546.jpeg">
 <h3>PBA Basketball 🏀</h3>
 <p>I enjoy watching exciting basketball games and supporting my favorite teams.</p>
 </div>
@@ -413,7 +414,20 @@ BDE7-033D2994FC18.mov" type="video/mp4">
  
 <h2>💚 Mental Health Awareness</h2>
 <p>
-Mental health awareness is an advocacy that is close to my heart. I believe everyone deserves to be heard, understood, and supported.
+🌿 Mental Health Awareness Advocacy (Speech/Website Description)
+
+Mental Health Awareness Advocacy
+
+Mental health is just as important as physical health. My advocacy focuses on raising awareness about mental health, promoting self-care, and encouraging individuals to seek help when they need it. Many people struggle silently with stress, anxiety, depression, and other mental health challenges because of fear, stigma, or lack of understanding.
+
+Through this advocacy, I aim to create a safe and supportive environment where people feel comfortable talking about their emotions and experiences without being judged. I believe that educating communities about mental health can help reduce stigma, increase empathy, and encourage early intervention.
+
+As an advocate, I support the message that seeking help is a sign of strength, not weakness. By spreading awareness, sharing resources, and promoting kindness and understanding, we can help build a society where mental well-being is valued and prioritized.
+
+Together, we can make a difference by listening, supporting one another, and reminding everyone that they are never alone in their struggles. Mental health matters, and every person deserves care, understanding, and hope.
+
+Advocacy Motto:
+💚 “It’s okay not to be okay. What matters is that you reach out, speak up, and know that help is always available.” 💚
 </p>
 
 <blockquote>
