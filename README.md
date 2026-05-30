@@ -422,6 +422,7 @@ Through this advocacy, I aim to create a safe and supportive environment where p
 As an advocate, I support the message that seeking help is a sign of strength, not weakness. By spreading awareness, sharing resources, and promoting kindness and understanding, we can help build a society where mental well-being is valued and prioritized.
 
 Together, we can make a difference by listening, supporting one another, and reminding everyone that they are never alone in their struggles. Mental health matters, and every person deserves care, understanding, and hope.
+</p>
 
 Advocacy Motto:
 💚 “It’s okay not to be okay. What matters is that you reach out, speak up, and know that help is always available.” 💚
