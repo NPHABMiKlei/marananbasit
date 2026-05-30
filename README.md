@@ -426,7 +426,6 @@ Together, we can make a difference by listening, supporting one another, and rem
 
 Advocacy Motto:
 💚 “It’s okay not to be okay. What matters is that you reach out, speak up, and know that help is always available.” 💚
-</p>
 
 <blockquote>
 "When the time is right, I, the Lord, will make it happen." — Isaiah 60:22
