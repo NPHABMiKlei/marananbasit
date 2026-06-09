@@ -270,7 +270,7 @@ padding:25px;
 </nav>
 <div class="hero">
 <div class="profile-frame">
-<img src="IMG_9606.jpeg">
+<img src="5A142766-DE47-4ABC-8083 F1271458A023.jpeg">
 </div>
 <h1>Juday</h1>
 <p>
